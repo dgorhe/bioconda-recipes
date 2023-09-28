@@ -6,7 +6,7 @@ package:
 
 source:
   url: "https://github.com/kli28/sRNAminer/releases/download/v{{ version }}/sRNAminer_v{{ version }}.tar.gz"
-  sha256: 7b3474be4c19832c70ba762a63020ffb35c2bc532c727026c459b968e56d9345 
+  sha256: 6da0c89ca2a3a5d5994fc6ef1356039e20189480d91cef8804c02b7337c54ba4 
  
 build:
   number: 0
